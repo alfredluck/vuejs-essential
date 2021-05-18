@@ -7,12 +7,21 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "bootstrap-sass": "^3.4.1",
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "element-ui": "^2.15.1",
+    "font-awesome": "^4.7.0",
+    "less-loader": "^5.0.0",
+    "sass-loader": "^5.0.0",
+    "vue": "^2.6.11",
+    "vue-router": "^3.5.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
+    "node-sass": "^6.0.0",
+    "pug": "^3.0.2",
+    "pug-plain-loader": "^1.1.0",
     "vue-template-compiler": "^2.6.11"
   },
   "browserslist": [
