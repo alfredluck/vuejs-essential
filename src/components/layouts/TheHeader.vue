@@ -36,15 +36,11 @@
 
     // 引入 TheEntry.vue 的默认值
     import TheEntry from '@/components/layouts/TheEntry'
-
-
     export default {
         name: 'TheHeader',
-
         components: {
             TheEntry
         },
-
         data() {
             return {
                 logo: {
